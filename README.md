@@ -2,7 +2,7 @@
 
 RimWorld 1.6 / 1.7 · Beta v0.1.4
 
-[下载最新版本](https://github.com/ALANotFound/Ensemble-Appearance-Releases/releases/latest) · [版本与更新说明](https://github.com/ALANotFound/Ensemble-Appearance-Releases/releases) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838570356)
+[下载最新版本](https://github.com/ALANotFound/Ensemble-Appearance-Releases/releases/tag/v0.1.4) · [版本与更新说明](https://github.com/ALANotFound/Ensemble-Appearance-Releases/releases) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838570356)
 
 下载 ZIP，解压后将 `Ensemble-Appearance` 文件夹放入游戏的 Mods 目录。需要 Harmony 和 HAR；角色与服装由对应内容包提供。更新后重启游戏，并提前备份存档。
 
