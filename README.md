@@ -1,13 +1,11 @@
-# 群像外观框架
+# 群像框架
 
-RimWorld 1.6 / 1.7 · Beta 0.1.0
+RimWorld 1.6 / 1.7 · Beta v0.1.4
 
-本库用于发布安装包、SHA256、版本说明及 Steam 页面配图，源码位于 https://github.com/ALANotFound/Ensemble-Framework 。
+[下载最新版本](https://github.com/ALANotFound/Ensemble-Appearance-Releases/releases/latest) · [版本与更新说明](https://github.com/ALANotFound/Ensemble-Appearance-Releases/releases) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838570356)
 
-下载版本化 ZIP 后，将其中 `Ensemble-Appearance` 文件夹放进 RimWorld 的 Mods 目录。依赖和功能以源码仓库 `publishing/SteamWorkshopDescription.zh-CN.bbcode.txt` 为准。
+下载 ZIP，解压后将 `Ensemble-Appearance` 文件夹放入游戏的 Mods 目录。需要 Harmony 和 HAR；角色与服装由对应内容包提供。更新后重启游戏，并提前备份存档。
 
-本地准备状态：尚未创建或推送公开发布；图片尚未上线；Steam 条目 ID 待首次创建后回填。
+本库保存发行包、校验文件、发布说明及工坊配图。[源码仓库](https://github.com/ALANotFound/Ensemble-Framework)。
 
-## 页面内容维护
-
-内容来自源码仓库 `publishing/workshop_content.json`，禁止在本库分叉维护。图片由源码发布脚本同步到 `images/`；版本说明来自对应 `release-notes/vVERSION.md`。
+页面内容与图片由源码仓库的 publishing 配置维护，版本更新说明以各版本 Release 为准。
